@@ -11,7 +11,7 @@
 
 ### 🌟 About Me  
 - 🚀 Passionate **Flutter Developer** building smooth mobile experiences  
-- 👨‍💻 Working on **Jarro** – Smart dining solution (order food without waiters)  
+- 👨‍💻 Currently building **Jarro** – Smart dining solution (order food without waiters)  
 - 📚 Exploring **Firebase, APIs, and Clean Architecture**  
 - 📫 Reach me at **atn86015@gmail.com**  
 - ⚡ Fun fact: I spend more time in **debugging than coding** 😅  
@@ -27,8 +27,7 @@
 
 ### 🌐 Backend & APIs  
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />  
-  <img src="https://skillicons.dev/icons?i=python" /> <!-- agar thoda python side use kiya ho -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 💾 Databases  
@@ -76,4 +75,4 @@
 
 ---
 
-✨ _“Building apps that people love to use 💙”_  
+✨ _“Building apps that people love to use 💙”_
