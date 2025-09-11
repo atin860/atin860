@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=AtinSharma&label=Profile%20views&color=blueviolet&style=flat" alt="AtinSharma" /> 
 </p>
 
@@ -21,22 +21,22 @@
 ## 🛠️ Tech Stack  
 
 ### 📱 Mobile Development  
-<p align="left"> 
+<p>
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
 </p>
 
 ### 🌐 Backend & APIs  
-<p align="left"> 
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 💾 Databases  
-<p align="left"> 
+<p>
   <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
 </p>
 
 ### ⚙️ Tools & Others  
-<p align="left"> 
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
 </p>
 
@@ -54,20 +54,24 @@
 ---
 
 ## 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AtinSharma&show_icons=true&theme=radical" alt="stats"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtinSharma&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtinSharma&layout=compact&theme=radical" height="180" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtinSharma&layout=compact&theme=radical" alt="langs"/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AtinSharma&theme=radical" height="180" />
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AtinSharma&theme=radical" alt="streak"/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtinSharma&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/atin-sharma-579a10295"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40"/></a>
   <a href="https://instagram.com/itsatin_"><img src="https://skillicons.dev/icons?i=instagram" height="40" width="40"/></a>
   <a href="mailto:atn86015@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" width="40"/></a>
