@@ -19,33 +19,34 @@
 ---
 
 ## 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
 ### 📱 Mobile Development  
 <p>
-  [<img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="40">](https://dart.dev/)  
-  [<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="40">](https://flutter.dev/)  
-  [<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40">](https://firebase.google.com/)
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" height="40" /></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="40" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="40" /></a>
 </p>
 
 ### 🌐 Backend & APIs  
 <p>
-  [<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40">](https://nodejs.org/)  
-  [<img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="40">](https://expressjs.com/)
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="40" /></a>
 </p>
 
 ### 💾 Databases  
 <p>
-  [<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase DB" height="40">](https://firebase.google.com/)  
-  [<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40">](https://www.mongodb.com/)  
-  [<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40">](https://www.mysql.com/)
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="40" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="40" /></a>
 </p>
 
 ### ⚙️ Tools & Others  
 <p>
-  [<img src="https://skillicons.dev/icons?i=git" alt="Git" height="40">](https://git-scm.com/)  
-  [<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">](https://github.com/)  
-  [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40">](https://www.postman.com/)  
-  [<img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40">](https://www.kernel.org/)
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="40" /></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" /></a>
 </p>
 
 
