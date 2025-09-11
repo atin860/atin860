@@ -22,23 +22,32 @@
 
 ### 📱 Mobile Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
+  [<img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="40">](https://dart.dev/)  
+  [<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="40">](https://flutter.dev/)  
+  [<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40">](https://firebase.google.com/)
 </p>
 
 ### 🌐 Backend & APIs  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  [<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40">](https://nodejs.org/)  
+  [<img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="40">](https://expressjs.com/)
 </p>
 
 ### 💾 Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
+  [<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase DB" height="40">](https://firebase.google.com/)  
+  [<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40">](https://www.mongodb.com/)  
+  [<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40">](https://www.mysql.com/)
 </p>
 
 ### ⚙️ Tools & Others  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
+  [<img src="https://skillicons.dev/icons?i=git" alt="Git" height="40">](https://git-scm.com/)  
+  [<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">](https://github.com/)  
+  [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40">](https://www.postman.com/)  
+  [<img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40">](https://www.kernel.org/)
 </p>
+
 
 ---
 
