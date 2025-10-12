@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+
 ## 🛠️ Tech Stack  
 
 ### 📱 Mobile Development  
